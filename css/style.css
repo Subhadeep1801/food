@@ -117,6 +117,10 @@
   background: #d0d5b7;
   margin-bottom: 20px;
 }
+#services .box  h2{
+  text-align: center;
+}
+  
 
 #services .box img {
   display: block;
