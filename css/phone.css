@@ -43,6 +43,19 @@
   flex-direction: column;
 }
 
+#services .box img {
+    object-fit: contain;
+    width: 100%;
+    aspect-ratio: 3/2;
+    display: block;
+    height: 80px;
+}
+
+.center {
+    text-align: center;
+    font-size: 0.9rem;
+}
+
 /* #services .box {
     padding: 14px;
     margin: 2px 0px;
