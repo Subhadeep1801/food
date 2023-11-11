@@ -27,6 +27,7 @@
   left: 0px;
   z-index: -1;
   opacity: 0.5;
+  filter: blur(2px);
 }
 
 /* Navigation Bar: Logo and Image */
